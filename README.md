@@ -1,8 +1,8 @@
 # Anomaly-Detection
 
 ## Project Team
-- Arun Kumar
-- Shree Vishal
+- 22PW05 -> Arun Kumar
+- 22PW34 ->Shree Vishal
 
 ## Objective
 The main goal is to identify and flag anomalous user behavior in shared computer environments. Using the timing data of key holds, the system distinguishes between typical and atypical typing patterns, assisting in behavioral biometrics-based user identification.
